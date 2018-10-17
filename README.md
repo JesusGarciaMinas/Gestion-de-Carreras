@@ -3,9 +3,11 @@ Software desarrollado para la asignatura IPS (2017 / 18) para la gestión de car
 
 ## Integrantes
 + Fernando del Barrio Romano 
+> [@fernandodelBarrio](https://github.com/fernandodelBarrio)
 + Nicolás Fernández Carrizo
 + Adán Fernández Sánchez
-+ Jesús García Minas 
++ Jesús García Minas
+> [@JesusGarciaMinas](https://github.com/JesusGarciaMinas)
 
 ## Roles de usuario
 Para la realización de este proyecto hemos seguido la metodología SCRUM cuyo principal objetivo es maximizar la inversión para la empresa receptora del producto. Se basa en construir primero la funcionalidad de mayor valor para el cliente y en los principios de inspección continua, adaptación, auto-gestión e innovación. SCRUM promueve la innovación, motivación y compromiso del equipo que forma parte del proyecto, por lo que los profesionales encuentran un ámbito propicio para desarrollar sus capacidades. Algunos beneficios son la posibilidad de cambios de manera sencilla, mayor calidad y productividad, predicciones de tiempos y reducción de riesgos.
